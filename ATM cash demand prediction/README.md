@@ -1,0 +1,5 @@
+# ATM cash demand prediction model
+
+Developing a sufficient predictive model for ATM cash demand is a crucial task for every bank to optimize cash management system. 
+
+In this report, I aim at identifying the best model to maximize the efficiency of the bank’s cash management from utilizing numerous predictive models I have tested in total, which are: Forward stepwise OLS, OLS with all variables and interaction terms, Lasso with original variables, Lasso with original variables with all interaction terms, and Deep Learning - Neural Network. In conclusion, the last model, Neural Network, after testing and comparing, is determined to be the final model to predict cash withdrawal with the relatively smallest train MSE and test MSE compared to the other predictive models. However, limitations such as insufficient business context, a small dataset of 22,000 data points, and limited expertise hinder further system advancement.
