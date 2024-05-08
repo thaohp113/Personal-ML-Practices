@@ -26,4 +26,4 @@ In this competition, I have achieved an overall MAP50 score of 0.43, higher than
 2. Experimenting with different YOLO Models: switching between different YOLO architectures (like YOLOv3, YOLOv4, etc.) might have helped in identifying a model structure that better fits the specific data tasks and characteristics. Some models also have a much higher number of parameters, which may perform better.
 3. Hyperparameter search: optimizing hyperparameters can significantly influence the performance of deep learning models by fine-tuning their learning process and adaptation to the training data.
 
-Data labeling needs to be done with high precision, otherwise will lead to noise and background detection during the training phase. Some models like YOLOv7 and YOLOv8 can actually utilize the additional information in polygon annotations to train better object detectors.
+Data labeling needs to be done with high precision, otherwise will lead to noise and background detection during the training phase.
