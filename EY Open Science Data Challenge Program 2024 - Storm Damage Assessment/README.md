@@ -11,7 +11,7 @@ Participants will be given pre- and post-cyclone satellite images of a site impa
 
 ## Dataset Used
 
-**Mandatory dataset**: High-resolution panchromatic satellite images before and after a tropical cyclone: Maxar GeoEye-1 (optical)
+**Mandatory dataset**: High-resolution panchromatic satellite images before and after a tropical cyclone: Maxar GeoEye-1 (optical) /
 **Optional datasets**: Moderate-resolution satellite data: Sentinel-2 (optical), Sentinel-1 (radar)
 
 ## Method
